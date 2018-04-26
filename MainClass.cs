@@ -13,6 +13,9 @@ namespace StartingPoint
 		[STAThread]
 		static void Main(string[] args)
 		{
+
+
+            Console.WriteLine("Hello");
 			// Create movies
 			Movie movCinderella = new Movie("Cinderella", PriceCodes.Childrens);
 			Movie movStarWars = new Movie("Star Wars", PriceCodes.Regular);
