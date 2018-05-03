@@ -15,7 +15,7 @@ namespace StartingPoint
 		{
 
 
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello13");
 			// Create movies
 			Movie movCinderella = new Movie("Cinderella", PriceCodes.Childrens);
 			Movie movStarWars = new Movie("Star Wars", PriceCodes.Regular);
